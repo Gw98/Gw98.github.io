@@ -1,11 +1,6 @@
 ---
 layout: article
-titles:
-  en      : &EN       Welcome to Gwen's Blog~
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
+title: Welcome to Gwen's Blog~
 lang: en
 tags: Life
 sidebar:
