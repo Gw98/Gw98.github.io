@@ -134,6 +134,7 @@ comments:
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
       - YvetteGwen
+    proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
